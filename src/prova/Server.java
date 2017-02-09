@@ -9,6 +9,8 @@ import java.net.Socket;
 
 public class Server {
 
+	
+	
 	ServerSocket server = null;
 	Socket client = null;
 	String stringaRicevuta = null;
